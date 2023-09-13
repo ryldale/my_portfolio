@@ -216,7 +216,7 @@ section {
 /* Certificate */
 .certificate
 {
-  height: 30vw;
+  height: 30vh;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
 }
