@@ -100,4 +100,7 @@
   .text-container {
     text-align: justify;
   }
+  .certificate {
+    height: 15vh;
+  }
 }
